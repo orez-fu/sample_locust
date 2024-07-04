@@ -1,1 +1,1 @@
-# locust_sample
+# Sample Locust
